@@ -1,0 +1,44 @@
+[
+    {
+        "h1": "<b>ABOUT ZOMATO</b>",
+        "p1": "<a href='https://www.zomato.com/who-we-are'>Who We Are</a>",
+        "p2": "<a href='https://blog.zomato.com/'>Blog",
+        "p3": "<a href='https://www.zomato.com/careers'>Work with us",
+        "p4": "<a href='https://www.zomato.com/investor-relations'>Investors",
+        "p5": "<a href='https://www.zomato.com/report-fraud'>Report Fraud",
+        "p6": "<a href='https://blog.zomato.com/press-kit'>Press Kit",
+        "p7": "<a href='https://www.zomato.com/contact'>Contact us"
+
+    },
+  
+    {
+        "h1":"<b>ZOMAVERSE</b>",
+        "p1":"<a href='https://www.zomato.com/'>zomato",
+        "p2":"<a href='https://blinkit.com/'>Blinkit",
+        "p3":"<a href='https://www.feedingindia.org/'>Feeding India",
+        "p4":"<a href='https://www.hyperpure.com/'>Hypoverse",
+        "p5":"<a href=''>Zomaland"
+       
+
+    },
+    {
+        "h1":"<b>FOR RESTAURANTS</b>",
+        "p1":"<a href='https://www.zomato.com/partner-with-us'>Partner with us",
+        "p2":"<a href='https://play.google.com/store/apps/details?id=com.application.services.partner&hl=en_IN&gl=US'>Apps for u",
+
+       "h2":"<b>FOR ENTERPRISES</b>",
+        "p3":"<a href='https://www.zomato.com/enterprise-solutions'>zomato for enterprises"
+       
+
+    },
+    {
+        "h1":"<b>LEARN MORE</b>",
+        "p1":"<a href='https://www.zomato.com/policies/privacy/'>Privacy",
+        "p2":"<a href='https://www.zomato.com/policies/security/'>Security",
+        "p3":"<a href='https://www.zomato.com/policies/terms-of-service'>Terms",
+        "p4":"<a href='https://www.zomato.com/directory'>Sitemap"
+       
+
+    }
+
+]
